@@ -56,6 +56,7 @@ public class EmpleadoControlador {
     }
 
     // *************************************************************************************
+    
     // Retorno la lista de todos los empleados almacenados en el repositorio
     // *************************************************************************************
     public java.util.List<Empleado> listarEmpleados() {

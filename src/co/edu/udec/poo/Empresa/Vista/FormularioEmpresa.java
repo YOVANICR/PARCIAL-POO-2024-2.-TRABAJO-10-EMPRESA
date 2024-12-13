@@ -123,6 +123,7 @@ public class FormularioEmpresa extends JFrame {
         btnListar.addActionListener(this::listarEmpresas);
 
         // Permito que, al seleccionar una fila de la tabla, los datos se carguen automáticamente
+        
         // en los campos de texto para poder editarlos o eliminarlos.
         tablaEmpresas.getSelectionModel().addListSelectionListener(e -> cargarDatosSeleccionados());
     }

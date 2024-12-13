@@ -9,6 +9,7 @@
  * @author yovani c
  */
 
+
 package co.edu.udec.poo.Empresa.Modelo.Entidades;
 
 public class Empleado {
@@ -47,6 +48,7 @@ public class Empleado {
     }
 
     // *************************************************************************************
+    
     // Este método convierte toda la información del empleado en una cadena de texto.
     // *************************************************************************************
     @Override
