@@ -11,6 +11,7 @@
 
 package co.edu.udec.poo.Empresa.Vista;
 
+
 import co.edu.udec.poo.Empresa.Controlador.DepartamentoControlador;
 import co.edu.udec.poo.Empresa.Modelo.Entidades.Departamento;
 import co.edu.udec.poo.Empresa.Modelo.Entidades.Empleado;
